@@ -3,12 +3,12 @@
 .. author:: YourName <YourURL/YourMail>
 
 .. categorize your guide! refer to the current list of tags: https://lab.uberspace.de/tags
-.. tag:: lang-php
+.. tag:: lang-ruby
 .. tag:: web
 
 .. sidebar:: About
 
-  .. image:: _static/images/loremipsum.png
+  .. image:: _static/images/Ruby_On_Rails_Logo.svg
       :align: center
 
 ##########
